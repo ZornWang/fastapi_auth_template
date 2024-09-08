@@ -1,0 +1,3 @@
+Default database admin account:
+username: admin
+password: admin
